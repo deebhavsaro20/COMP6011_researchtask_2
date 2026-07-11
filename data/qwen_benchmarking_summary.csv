@@ -1,0 +1,3 @@
+Model,Average Partial-Credit Score,Exact Diagnosis Accuracy,Top-3 Diagnostic Accuracy
+Model 1: Qwen/Qwen2.5-1.5B-Instruct,0.05,0.0,0.0
+Model 2: Qwen/Qwen2.5-3B-Instruct,0.2,0.0,0.1

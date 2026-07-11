@@ -1,0 +1,9 @@
+Evidence File,Purpose
+nejm_cases_combined_task2.csv,Prepared dataset of 10 NEJM clinical challenge...
+checkpoint_after_model1_qwen.csv,Checkpoint after running Qwen2.5-1.5B-Instruct
+qwen_two_model_raw_predictions.csv,Raw diagnostic outputs from both Qwen models
+qwen_benchmarking_summary.csv,Summary of quantitative benchmarking metrics
+qwen_benchmarking_chart.png,Graph comparing model performance
+qwen_score_distribution.png,Graph showing score distribution
+qwen_final_detailed_benchmarking_results.csv,Detailed case-by-case benchmarking table
+qwen_practical_benchmarking_summary.txt,Report-ready practical benchmarking summary
